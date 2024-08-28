@@ -1,0 +1,18 @@
+/* styles.css */
+
+.redp{
+    background-color: rgb(255,0,0,0.5);
+    font-family:'Verdana','DejaVu Sans', 'sans-serif';
+}
+#firstid{
+    font-size: 36px;
+    color: blue;
+}
+.redp2{
+    font-size:24px;
+}
+#greendiv{
+    background-color: lightgreen;
+    font-size:24px;
+    font-weight:bold;
+}
